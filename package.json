@@ -1,0 +1,11 @@
+{
+  "name": "tyler-ui-kit",
+  "version": "1.0.0",
+  "description": "Personal Typescript React kit",
+  "main": "index.js",
+  "author": "Tyler Glowaski",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
